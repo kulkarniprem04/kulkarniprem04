@@ -40,7 +40,7 @@
 <details>
   <summary>:zap: My GitHub Stats</summary>
 
-  [![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulkarniprem04&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+  [![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulkarniprem04&hide=stars&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
