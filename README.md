@@ -38,9 +38,10 @@
 <br/>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: My GitHub Stats</summary>
 
-  <img align="left" alt="kulkarniprem04's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kulkarniprem04&show_icons=true&hide_border=true&theme=radical&hide=stars" />
+  [![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulkarniprem04&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
