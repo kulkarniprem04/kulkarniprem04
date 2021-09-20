@@ -1,6 +1,6 @@
 ### Hi there, I'm Prem Kulkarni
 
-## I'm a Fullstack web-developer from India, Currently I am a Technical core at [DSCMESCOE][dscmescoegithub]
+## I'm a final year undergraduate and a Fullstack web-developer from India.
 
 <br />
 <br />
@@ -8,7 +8,7 @@
 <img align="right" alt="programming gif" width="400px" src="https://user-images.githubusercontent.com/59019470/133954818-5a1ab397-bfde-49d5-9e0a-fdd45064089e.gif" />
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects!
+- 🥅 2021 Goals: Contribute more to Open Source projects!
 - ⚡ Besides coding i love to play football and watch movies!!
 - 📧 Contact me at kulkarniprem04@gmail.com
 
@@ -42,13 +42,10 @@
 <br />
 <br/>
 
-<details>
-  <summary>:zap: My GitHub Stats</summary>
 
   [![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulkarniprem04&hide=stars&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-</details>
 
 [dscmescoegithub]: https://github.com/Developer-Students-Clubs-MESCOE
 [email]: kulkarniprem04@gmail.com
