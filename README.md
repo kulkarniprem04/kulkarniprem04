@@ -5,13 +5,18 @@
 <br />
 <br />
 
+<img align="right" alt="programming gif" width="430px" src="https://user-images.githubusercontent.com/59019470/133954818-5a1ab397-bfde-49d5-9e0a-fdd45064089e.gif" />
+
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute more to Open Source projects!
 - ⚡ Besides coding i love to play football and watch movies!!
 - 📧 Contact me at kulkarniprem04@gmail.com
 
 <br/>
 <br/>
+
+
+
 
 ### Languages and Tools:
 
