@@ -41,10 +41,5 @@
 <br />
 <br/>
 
-
-  [![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulkarniprem04&hide=stars&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 [dscmescoegithub]: https://github.com/Developer-Students-Clubs-MESCOE
 [email]: kulkarniprem04@gmail.com
